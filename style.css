@@ -1,0 +1,15 @@
+body
+{
+    background-image: url(christmas_tree.webp);
+}
+.div
+{
+    text-align: center;
+    border-radius: 20px;
+    letter-spacing: 10px;
+}
+.dashed_background
+{
+    border: 2px dashed black;
+    background-color: white;
+}
